@@ -1,3 +1,5 @@
+![Captura de tela de 2025-02-03 14-49-59](https://github.com/user-attachments/assets/695bc443-1f33-4070-8c0a-e6de1ddad2c3)
+
 # Site E-Commerce
 
 Este é um projeto simples de um site de e-commerce desenvolvido com Flask, HTML, CSS e JavaScript. Ele inclui funcionalidades básicas como exibição de produtos, navegação e tratamento de erros.
